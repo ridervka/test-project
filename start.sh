@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "hello"
-ehho "world"
+echo "world"
+echo "1"
