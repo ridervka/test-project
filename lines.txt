@@ -1,0 +1,6 @@
+
+interest  lines.txt  start.sh
+interest
+lines.txt
+start.sh
+echo
